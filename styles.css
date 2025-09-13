@@ -316,6 +316,7 @@ label input, select {
 .fnav-list h1 {
     font-size: 1.2em;
     cursor: pointer;
+    transition: color 0.5s ease;
 }
 
 .fnav-list h1:hover {
